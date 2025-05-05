@@ -1,2 +1,2 @@
-# edu-mirage
+# Edu Mirage
 flutter codes
